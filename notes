@@ -7,3 +7,12 @@ cd .. - it goes back to the directory
 pwd - tells you the directory path
 clear - it clears the screen
 
+git commands 
+
+git init - it creates a local git repository ( it creates a git folder)
+git add * - it adds all files into that git folder
+git commit -m "msg" - it saves the work upto that point
+
+
+git config --global user.email "2400033249@kluniversity.in"
+git config --global user.name "Likhitha"

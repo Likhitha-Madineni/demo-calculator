@@ -1,0 +1,9 @@
+Directory - is nothing but a folders
+
+
+ls - it lists all the files and folders in the directorty. 
+cd - it changes directorty 
+cd .. - it goes back to the directory 
+pwd - tells you the directory path
+clear - it clears the screen
+

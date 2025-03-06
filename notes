@@ -13,9 +13,22 @@ git init - it creates a local git repository ( it creates a git folder)
 git add * - it adds all files into that git folder
 git commit -m "msg" - it saves the work upto that point
 
+-----------If you are creating new repo commands for it------------------
 
-git config --global user.email "2400033249@kluniversity.in"
-git config --global user.name "Likhitha"
+git init
+git add *
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Likhitha-Madineni/Demo-repo-.git
+git push -u origin main
+
+---------------IF YOU WANT TO PUSH THE CHANGES TO GITHUB-----------------
+
+git add *
+git commit -m "your msg"
+git push
+
+
 
 
 TO-BE-CONTINUED
